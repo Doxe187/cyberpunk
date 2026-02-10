@@ -11,9 +11,8 @@ This is my Omarchy Cyberpunk theme. I created it because i rely like the Cyberpu
   
 ## Installation
 ```
-cd .local/share/omarchy/themes
+cd ~/.local/share/omarchy/themes
 git clone https://github.com/Doxe187/cyberpunk.git
-
 ```
 After that you can change your theme to cyberpunk.
 
