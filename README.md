@@ -1,4 +1,4 @@
-#Cyberpunk theme Omarchy
+# Cyberpunk theme Omarchy
 
 This is my Omarchy Cyberpunk theme. I created it because i rely like the Cyberpunk styl with all the fancy neon colors🥳
 
